@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hebrew_English_Flashcard_Tachistoscope", "Hebrew_English_Flashcard_Tachistoscope.csproj", "{5AC02409-516A-4AE8-946C-50DDCE4530DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC02409-516A-4AE8-946C-50DDCE4530DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC02409-516A-4AE8-946C-50DDCE4530DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC02409-516A-4AE8-946C-50DDCE4530DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC02409-516A-4AE8-946C-50DDCE4530DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {158BD5F1-C9E9-4B1D-9600-93A6F5D19A51}
+	EndGlobalSection
+EndGlobal
